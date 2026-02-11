@@ -2,7 +2,7 @@
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard.png)
+<img width="1276" height="765" alt="image" src="https://github.com/user-attachments/assets/b9ecd7c1-93e7-4055-8c28-6da5b7b8420e" />
 
 ---
 
